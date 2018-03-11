@@ -28,7 +28,7 @@ public class StaticMethod {
 		nandhu.displyInfo();
 		StaticStudent.changeCollege("IIT");
 		nandhu.displyInfo();
-		System.out.println("Square of 48 = " + StaticStudent.calculateSquare(48));
+		System.out.println("Square of 48 = " + StaticStudent.calculateSquare(48)); 
 		
 	}
 
