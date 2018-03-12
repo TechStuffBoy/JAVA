@@ -1,7 +1,7 @@
 package com;
 
 
-class Animalz{
+class Animalz {
 	void eat() {
 		System.out.println("Animals will eat..");
 	}
