@@ -16,7 +16,7 @@ public class Programmer extends Employee {
 		this.location = location;
 		this.maritalStatus = maritalStatus;
 		this.salary = salary;
-		this.bonus = bonus;
+		this.bonus = bonus; 
 	}
 	void displyEmployyeInfo() {
 		System.out.println("Name=" + this.name + " Location=" + this.location +
